@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WellnessApp</string>
+    <string name="placeholder">Search</string>
+    <string name="ab1_inversions">Inversions</string>
+    <string name="ab2_inversions">Quick yoga</string>
+    <string name="ab3_inversions">Stretching</string>
+    <string name="ab4_inversions">Tabata</string>
+    <string name="ab5_inversions">HIIT</string>
+    <string name="ab6_inversions">Pre-natal yoga</string>
+    <string name="fc1">Short mantras</string>
+    <string name="nature">Nature meditations</string>
+    <string name="fc3">Stress and Anxiety</string>
+    <string name="fc4">Self massage</string>
+    <string name="fc5">Overwhelmed</string>
+    <string name="fc6">Nightly wind down</string>
+    <string name="alignyourbody">Align Your Body</string>
+    <string name="favoritecollections">Favorite Collections</string>
+    <string name="bottomNavigationBar">Navigation Bar</string>
+    <string name="bottomnavigation">Home</string>
+    <string name="bottomnavigationp">Profile</string>
+</resources>
+
